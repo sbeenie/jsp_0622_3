@@ -7,6 +7,6 @@
 <title>forward Ok</title>
 </head>
 <body>
-	forward.jsp파일을 열었습니다.
+	forward.jsp 에서 포워딩된 페이지 forwardOk.jsp 입니다.
 </body>
 </html>
